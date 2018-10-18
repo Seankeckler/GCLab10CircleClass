@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\bin\Debug\GCLab10CirclesCircumference.exe.config
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\bin\Debug\GCLab10CirclesCircumference.exe
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\bin\Debug\GCLab10CirclesCircumference.pdb
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\obj\Debug\GCLab10CirclesCircumference.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\obj\Debug\GCLab10CirclesCircumference.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\obj\Debug\GCLab10CirclesCircumference.exe
+C:\Users\seank\source\repos\GCLab10CirclesCircumference\GCLab10CirclesCircumference\obj\Debug\GCLab10CirclesCircumference.pdb
